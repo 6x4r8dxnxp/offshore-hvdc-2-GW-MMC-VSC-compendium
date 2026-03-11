@@ -17,7 +17,7 @@ This repository contains technical documentation for engineering, operating, and
 | Document | Pages | Audience | Purpose |
 |----------|-------|----------|---------|
 | **[Research Brief](docs/research-brief/research-brief-v1.0.pdf)** | 2 | Multi-stakeholder | Strategic framing & core principles |
-| **[Full Compendium](docs/compendium/compendium-v2.0.pdf)** | 62 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
+| **[Full Compendium](docs/compendium/compendium-v2.0.pdf)** | 65 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
 
 ---
 
