@@ -17,7 +17,7 @@ This repository contains technical documentation for engineering, operating, and
 | Document | Pages | Audience | Purpose |
 |----------|-------|----------|---------|
 | **[Research Brief](docs/research-brief/2026-03_Research_Brief_Offshore_Corridors.pdf)** | 2 | Multi-stakeholder | Strategic framing & core principles |
-| **[Full Compendium](docs/compendium/compendium-v2.0.pdf)** | 65 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
+| **[Full Compendium](docs/compendium/Compendium_2GW_MMC-VSC.pdf)** | 65 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
 
 ---
 
