@@ -15,7 +15,7 @@ This repository contains technical documentation for engineering, operating, and
 | Document | Pages | Audience | Purpose |
 |----------|-------|----------|---------|
 | **[Research Brief](https://raw.githubusercontent.com/6x4r8dxnxp/offshore-hvdc-2-GW-MMC-VSC-compendium/main/2026-03_Research_Brief_Offshore_Corridors.pdf)** | 2 | Multi-stakeholder | Strategic framing & core principles |
-| **[Full Compendium](https://raw.githubusercontent.com/6x4r8dxnxp/offshore-hvdc-2-GW-MMC-VSC-compendium/main/Compendium_2GW_MMC-VSC.pdf)** | 78 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
+| **[Full Compendium](https://raw.githubusercontent.com/6x4r8dxnxp/offshore-hvdc-2-GW-MMC-VSC-compendium/main/Compendium_2GW_MMC-VSC.pdf)** | 79 | HVDC engineers, TSOs | Technical deep-dive with mathematical annex |
 
 ## 🔗 Quick Downloads
 
@@ -25,7 +25,7 @@ This repository contains technical documentation for engineering, operating, and
 - **View on GitHub**: [2026-03_Research_Brief_Offshore_Corridors.pdf](2026-03_Research_Brief_Offshore_Corridors.pdf)
 - **Direct Download**: [Click here](https://raw.githubusercontent.com/6x4r8dxnxp/offshore-hvdc-2-GW-MMC-VSC-compendium/main/2026-03_Research_Brief_Offshore_Corridors.pdf)
 
-### Full Compendium (78 pages)
+### Full Compendium (79 pages)
 📘 **Comprehensive technical documentation**
 
 - **View on GitHub**: [Compendium_2GW_MMC-VSC.pdf](Compendium_2GW_MMC-VSC.pdf)
